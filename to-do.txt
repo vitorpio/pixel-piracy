@@ -1,0 +1,4 @@
+- aicionar controle de dificuldade dentro da fase: spawn de inimigos, tipos de inimigos, música, etc;
+- adicionar power ups;
+- Tela para mostrar score ao finalizar jogo;
+- Adicionar tela de scores no menu;
