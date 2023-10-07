@@ -1,1 +1,1 @@
-# Simpli game developed using pygame
+# Simple game developed using pygame
